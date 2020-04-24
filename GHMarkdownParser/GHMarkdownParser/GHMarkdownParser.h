@@ -7,7 +7,7 @@
 //
 
 #import <Foundation/Foundation.h>
-#import <GHMarkdownParser/NSString+GHMarkdownParser.h>
+#import "NSString+GHMarkdownParser.h"
 
 
 /** Option flags for Markdown parsing. */
